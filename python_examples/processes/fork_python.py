@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+import time
 import os
 
 print "sou o processo pai!, ainda nao tenho filhos"
