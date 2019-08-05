@@ -1,0 +1,8 @@
+Examples are compatible with python 3 only.
+
+To run posix_ipc examples you will need to install posix_ip library:
+	- python3 -m pip install posix_ipc --user
+	- python -m pip install posix_ipc --user
+
+To install posix_ipc, python3 dev tools should be installed (package python3-dev).
+
