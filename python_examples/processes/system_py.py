@@ -4,6 +4,6 @@ import os
 
 #exemplo do uso de system
 
-os.system("python loop.py")
+os.system("./a.out")
 
 

@@ -12,3 +12,4 @@ os.kill(pid, signal.SIGKILL)
 #os.kill(pid, signal.SIGSTOP)
 #retoma o processo
 #os.kill(pid, signal.SIGCONT)
+#envia um sinal para si mesmo
